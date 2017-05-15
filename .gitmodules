@@ -7,3 +7,6 @@
 [submodule "header.vim"]
 	path = header.vim
 	url = git@github.com:lopesivan/header.vim.git
+[submodule "maps.vim"]
+	path = maps.vim
+	url = git@github.com:lopesivan/maps.vim.git
