@@ -1,0 +1,3 @@
+[submodule "noah.vim"]
+	path = noah.vim
+	url = git@github.com:lopesivan/noah.vim.git
