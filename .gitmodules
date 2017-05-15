@@ -13,3 +13,6 @@
 [submodule "vim-airline"]
 	path = vim-airline
 	url = git@github.com:lopesivan/vim-airline.git
+[submodule "hp50g.vim"]
+	path = hp50g.vim
+	url = git@github.com:lopesivan/hp50g.vim.git
