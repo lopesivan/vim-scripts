@@ -4,3 +4,6 @@
 [submodule "template.vim"]
 	path = template.vim
 	url = git@github.com:lopesivan/template.vim.git
+[submodule "header.vim"]
+	path = header.vim
+	url = git@github.com:lopesivan/header.vim.git
