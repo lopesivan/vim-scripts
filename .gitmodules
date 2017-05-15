@@ -10,3 +10,6 @@
 [submodule "maps.vim"]
 	path = maps.vim
 	url = git@github.com:lopesivan/maps.vim.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:lopesivan/vim-airline.git
