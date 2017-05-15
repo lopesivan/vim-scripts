@@ -1,3 +1,6 @@
 [submodule "noah.vim"]
 	path = noah.vim
 	url = git@github.com:lopesivan/noah.vim.git
+[submodule "template.vim"]
+	path = template.vim
+	url = git@github.com:lopesivan/template.vim.git
